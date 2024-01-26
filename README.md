@@ -18,7 +18,7 @@
 3. Arcticle 2| ID1 | 0.001009225845336914 sec | :x:
 4. Arcticle 2| ID2 | 0.0013916492462158203 sec | :white_check_mark:
 
-#### Rabin-Karp :x:
+#### Rabin-Karp
 
 1. Arcticle 1| ID1 | 0.0025420188903808594 sec | :white_check_mark:
 2. Arcticle 1| ID2 | 0.0037539005279541016 sec | :x:
